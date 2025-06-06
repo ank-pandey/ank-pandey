@@ -17,19 +17,31 @@
 ## 🚀 About Me
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-``
-javascript
-const aboutMe = {
-    pronouns: "he/him",
-    location: "San Francisco, CA",
-    currentRole: "Senior Full Stack Developer",
-    company: "Tech Startup Inc.",
-    currentFocus: "Building scalable web applications",
-    learning: ["GraphQL", "Rust", "Machine Learning"],
-    askMeAbout: ["JavaScript", "React", "Node.js", "Python", "Cloud Architecture"],
-    funFact: "I debug code faster when listening to lo-fi music 🎵"
-};
-``
+
+Hey there! 👋 I'm a passionate **Full Stack Developer** who loves crafting digital experiences that make a difference. When I'm not coding, you'll find me exploring the latest tech trends or contributing to open-source projects.
+
+**🌟 What Drives Me:**
+Building scalable applications that solve real-world problems while writing clean, maintainable code that other developers can easily understand and contribute to.
+
+**📍 Location:** 🌍 Earth (Currently based in Your City)  
+**💼 Role:** Senior Full Stack Developer & Tech Enthusiast  
+**🎯 Mission:** Building the future, one commit at a time  
+
+**🎨 When I'm Not Coding:**
+🎮 Gaming enthusiast | 📚 Avid reader | 🎵 Music lover | ☕ Coffee connoisseur
+
+**💭 My Motto:** *"Clean code always looks like it was written by someone who cares"*
+
+---
+
+### 🎯 What I'm Up To
+- 🔭 **Currently working on:** Next.js SaaS platform with AI integration
+- 🌱 **Learning:** Advanced TypeScript patterns and system design
+- 👥 **Collaborating on:** Open source React component libraries
+- 🎤 **Speaking at:** Local tech meetups about modern web development
+- 💡 **Planning:** A series of coding tutorials for beginners
+- ✨ **Recent Achievement:** Contributed to 15+ open source projects this year!
+
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -64,7 +76,7 @@ const aboutMe = {
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ank-pandey&theme=tokyonight)
 
 </div>
 
