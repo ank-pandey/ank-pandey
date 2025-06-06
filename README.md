@@ -1,5 +1,3 @@
-# Hi there, I'm Ankit 👋
-
 <div align="center">
 
 ![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi%20There!%20I'm%20Ankit%20👋&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Problem%20Solver%20|%20Code%20Enthusiast&descAlignY=51&descAlign=62)
