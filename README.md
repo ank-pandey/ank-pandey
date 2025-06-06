@@ -2,16 +2,15 @@
 
 <div align="center">
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Git%20World!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32)
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi%20There!%20I'm%20Ankit%20👋&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Problem%20Solver%20|%20Code%20Enthusiast&descAlignY=51&descAlign=62)
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Always+Learning+New+Things)]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 </div>
-
 ---
 
 ## 🚀 About Me
