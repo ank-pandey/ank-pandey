@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-```javascript
+javascript
 const aboutMe = {
     pronouns: "he/him",
     location: "San Francisco, CA",
@@ -27,7 +27,6 @@ const aboutMe = {
     askMeAbout: ["JavaScript", "React", "Node.js", "Python", "Cloud Architecture"],
     funFact: "I debug code faster when listening to lo-fi music 🎵"
 };
-```
 
 ## 🛠️ Tech Stack
 
