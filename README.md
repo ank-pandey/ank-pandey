@@ -23,7 +23,7 @@ Hey there! 👋 I'm a passionate **Full Stack Developer** who loves crafting dig
 **🌟 What Drives Me:**
 Building scalable applications that solve real-world problems while writing clean, maintainable code that other developers can easily understand and contribute to.
 
-**📍 Location:** 🌍 Earth (Currently based in Your City)  
+**📍 Location:** 🌍 Earth (Currently based in Dubai)  
 **💼 Role:** Senior Full Stack Developer & Tech Enthusiast  
 **🎯 Mission:** Building the future, one commit at a time  
 
