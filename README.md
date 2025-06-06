@@ -90,16 +90,6 @@ Building scalable applications that solve real-world problems while writing clea
 
 <!--END_SECTION:activity-->
 
-## 🌟 Fun Stuff
-
-<div align="center">
-
-### 🎮 Gaming Stats
-![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white)
-![PlayStation](https://img.shields.io/badge/-PlayStation-003791?style=flat-square&logo=playstation&logoColor=white)
-
-</div>
-
 ## 📈 Coding Time
 
 <!--START_SECTION:waka-->
@@ -122,7 +112,7 @@ Other        52 mins         █░░░░░░░░░░░░░░░░
 
 </div>
 
-## 🎯 2025 Goals
+## 🎯 Goals for this year
 
 - [ ] Contribute to 20 open source projects
 - [ ] Build and launch 3 personal projects
