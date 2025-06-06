@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Profile Banner](https://via.placeholder.com/1200x300/0d1117/58a6ff?text=Welcome+to+my+GitHub+Profile!)
+![Profile Banner]([https://via.placeholder.com/1200x300/0d1117/58a6ff](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome+to+my+GitHub+Profile!)
 
 </div>
 
