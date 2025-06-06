@@ -105,7 +105,7 @@ Other        52 mins         █░░░░░░░░░░░░░░░░
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-kumar-pandey-87137265)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ankit_002)
+[![X](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://x.com/ankit_002)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitkp7@gmail.com)
 
 </div>
