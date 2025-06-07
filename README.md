@@ -1,7 +1,14 @@
-## Hi there,👋
+# 🌟 Welcome to My Digital Universe! 🚀
+
 <div align="center">
 
 ![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi%20There!%20I'm%20Ankit%20👋&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Problem%20Solver%20|%20Code%20Enthusiast&descAlignY=51&descAlign=62)
+
+### 💫 *"Code is poetry written in logic"* 💫
+
+🎯 **Passionate Developer** | 🌱 **Lifelong Learner** | 🔥 **Open Source Contributor**
+
+**Thanks for stopping by! Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate on something amazing! ✨**
 
 </div>
 
@@ -10,6 +17,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 </div>
+
 
 ## 🚀 About Me
 
